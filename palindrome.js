@@ -13,3 +13,5 @@ function isPalindrome(x) {
 
 const result = isPalindrome(60);
 console.log(result);
+
+
