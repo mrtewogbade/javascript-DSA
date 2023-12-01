@@ -1,3 +1,12 @@
+// Input: Machine
+// Output: True
+// Explanation: “Machine” does not have any character repeating, it is an Isogram
+
+// Input : Geek
+// Output : False
+// Explanation: “Geek” has ‘e’ as repeating character, it is not an Isogram
+
+
 function isogram(str)
 {
     // Convert the string in lower case letters
